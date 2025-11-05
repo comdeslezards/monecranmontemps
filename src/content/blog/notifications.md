@@ -40,7 +40,7 @@ Les notifications sont l’un des outils les plus puissants utilisés par les ap
   Supprimez les badges rouges ou masquez-les : votre écran sera moins anxiogène.
 
 **🔗 Notre article sur le tri des notifications :**  
-[📖 Tri des notifications](/blog/tri-notifications)
+[📖 Tri des notifications](../tri-notifications)
 
 ---
 

@@ -67,7 +67,7 @@ Coupez les notifications non essentielles :
 - “Revenez voir les nouveautés”  
 
 Cela vous permettra de consulter l’app **quand vous le décidez**, et non quand elle vous appelle.  
-🔗 Voir aussi : [📖 Tri des notifications](/blog/tri-notifications)
+🔗 Voir aussi : [📖 Tri des notifications](../tri-notifications)
 
 ---
 
@@ -103,7 +103,7 @@ C’est une manière simple de **ralentir votre usage** sans vous priver du serv
 3. **Désactiver les notifications non essentielles**  
    `Réglages → Notifications → <App>`  
    Désactivez celles qui ne sont pas essentielles.  
-   🔗 Plus d'astuces sur notre article dédié: [📖 Tri des notifications](/blog/tri-notifications)
+   🔗 Plus d'astuces sur notre article dédié: [📖 Tri des notifications](../tri-notifications)
 
 4. **Masquer les icônes**  
   `Appui long sur icône d'app → Modifier l'écran d'accueil`  
@@ -135,7 +135,7 @@ C’est une manière simple de **ralentir votre usage** sans vous priver du serv
 3. **Désactiver les notifications inutiles**  
    `Paramètres → Notifications → Notifications de l'application`  
    Conservez uniquement les alertes utiles.
-   🔗 Plus d'astuces sur notre article dédié: [📖 Tri des notifications](/blog/tri-notifications)
+   🔗 Plus d'astuces sur notre article dédié: [📖 Tri des notifications](../tri-notifications)
 
 4. **Masquer les icônes**  
   `Appui long sur icône d'app et glisser sur une autre`  
